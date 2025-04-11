@@ -1,4 +1,23 @@
-# undefined-nonprofit.github.io
+# Undefined Charity
 Undefined is a recently registered nonprofit. Please see this repo for our files and forms.
 
-Repo: https://github.com/undefined-nonprofit/undefined-nonprofit.github.io
+## Mission
+OUR MISSION IS TO CREATE SAFE AND AFFIRMING ENVIRONMENTS WHERE LGBTQIA+ INDIVIDUALS FACINGMARGINALIZATION CAN CONNECT WITH OTHERS WHO UNDERSTAND THEIR EXPERIENCES. WE STRIVE TO BUILD ASTRONG SENSE OF COMMUNITY THROUGH SOCIAL GATHERINGS, SUPPORT GROUPS, EDUCATIONAL WORKSHOPS,AND ADVOCACY INITIATIVES. OUR GOAL IS TO EMPOWER INDIVIDUALS TO EMBRACE THEIR AUTHENTIC SELVES,ACCESS VITAL RESOURCES, AND THRIVE IN A WORLD THAT CELEBRATES DIVERSITY AND INCLUSION.
+
+## EIN
+33-3432965
+
+## UBI
+605 729 334
+
+## Address
+4301 Martin Rd
+Ephrata, WA, 98823
+
+## Email
+contact@undefined.charity
+
+# Phone
++1-206-580-4666
+
+Repo including IRS documents: https://github.com/undefined-nonprofit/undefined-nonprofit.github.io
