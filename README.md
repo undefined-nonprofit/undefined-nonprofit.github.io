@@ -10,9 +10,15 @@ OUR MISSION IS TO CREATE SAFE AND AFFIRMING ENVIRONMENTS WHERE LGBTQIA+ INDIVIDU
 ## UBI
 605 729 334
 
-## Address
+## Address - Mail
+119 1ST AVE NW # 370
+Ephrata WA 98823
+United States
+
+## Address - Service
 4301 Martin Rd
-Ephrata, WA, 98823
+Ephrata WA 98823
+United States
 
 ## Email
 contact@undefined.charity
